@@ -1,0 +1,13 @@
+What is Singleton design pattern?
+It is a way to create an object. To ensure its only one object be created.
+
+When would you use it?
+We want a class has one and only one instance to be created at any given time
+
+What are the advantages of using it?
+Don't need to initialize
+You can control the number of instance
+save memory and resources
+
+Do you see any disadvantages of the design pattern?
+no interface, no inheritance, doing unit test need to reset

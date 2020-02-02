@@ -1,0 +1,10 @@
+What are generics?
+you can have an object or method accept multiple types
+
+What benefit do generics have over exceptions?
+combine similar class for example same function different types
+give error during compile time so that bug can be fix by programmer
+user don't need to worry about type
+
+Do generics provide compile-time support or runtime support?
+compile time

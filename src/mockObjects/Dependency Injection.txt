@@ -1,0 +1,12 @@
+What is dependency injection design pattern?
+initialize an object from outside and pass into method or class by arguments
+
+When would you use it?
+when the arguments it can be abstract
+
+What are the advantages of using it?
+easy for unit test
+reduce the coupling
+
+Do you see any disadvantages of the design pattern?
+too many arguments in constructor or methods input

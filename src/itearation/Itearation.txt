@@ -1,0 +1,17 @@
+What is this design pattern?
+The Iterator Pattern allows traversal of the elements of an collection without
+ exposing the underlying implementation
+
+When would you use it?
+Iterate a container and hide data structure from user
+Support Generics container
+
+What are the advantages of using it?
+Hide data structure from user
+if requirement changed its easy to change
+Support Generics container
+
+Do you see any disadvantages of the design pattern?
+the abstract design is complex
+
+In the lecture, we coded up the BinaryTree that made use of the iterator design pattern.

@@ -1,0 +1,18 @@
+What is Polymorphism?
+Polymorphism is the ability of an object to take on many forms.
+Same even occur on different object will have different result.
+ex:
+print will have color if print on color printer
+print will only have black and white if print on black white printer
+
+What is the advantages of Polymorphism?
+Enables you to program in the general rather than program  in the specific.
+Enables you to to write programs that processes objects that share the same super class as if they
+    are all objects of the super class.
+Implement systems that are easily extensible.
+
+When the function bindings during compiling time?
+private, static, overload
+
+when the function binding during run time?
+override, ...

@@ -1,0 +1,14 @@
+What is decorator design pattern?
+The decorated object and the original object have the same type.
+The objects are "wrapped" with decorators
+
+When would you use it?
+An object have one or more decorators
+
+What are the advantages of using it?
+Classes should be open for extension but closed for modification.
+Provides a flexible alternative to using inheritance to extend functionality
+
+Do you see any disadvantages of the design pattern?
+Takes time and effort
+Complicated and hard to understand

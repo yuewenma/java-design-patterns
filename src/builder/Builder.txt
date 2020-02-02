@@ -1,0 +1,10 @@
+What is Builder design pattern? When would you use it?
+faced with many constructor parameters.
+able to deal with large number of optional parameters.
+
+What are the advantages of using it?
+Calling code is easy to write and read
+It can simulate named optional parameters found in Python
+Nutrition Fact class is immutable.
+
+Do you see any disadvantages of the design pattern?

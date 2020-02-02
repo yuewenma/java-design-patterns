@@ -1,0 +1,17 @@
+What is Publish Subscribe design pattern?
+Its a relationship between a one subject class and multiple Observer classes. So that when
+subject class have changed every observer classes will update themselves
+
+When would you use it?
+when you want multiple class can change their states by a subject class
+
+What are the advantages of using it?
+observer change wouldn't effect others
+
+Do you see any disadvantages of the design pattern?
+high coupling makes program maintenance difficult
+
+---------|>interface
+一一一一一|>inheritance
+一一一一一<>aggregation部分包含
+一一一一一<<>>composition全包含
